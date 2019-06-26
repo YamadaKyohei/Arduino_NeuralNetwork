@@ -1,2 +1,0 @@
-NeuralNetwork	KEYWORD1
-predict	KEYWORD2

@@ -1,9 +1,9 @@
-#include "NeuralNetwork.h"
+﻿#include "NeuralNetwork.h"
 
 // ========== 学習したニューラルネットワークの構造を記述 ==========
 
-// 深さ = 中間層の数+入力層+出力層
-#define depth 1+2
+// 深さ = 隠れ層の数+入力層+出力層
+#define depth 3
 // ノードが一番多い層のノード数
 #define MaxNode 3
 //各層のノード数 {入力層, 隠れ層, ... ,出力層}
